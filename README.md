@@ -34,4 +34,4 @@
   
 <h1> 🎫 Commits </h1>
 
-![Snake animation](https://github.com/dev1neee/dev1ne/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/dev1neee/dev1neee/blob/output/github-contribution-grid-snake.svg)
