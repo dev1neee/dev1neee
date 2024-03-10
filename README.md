@@ -6,7 +6,7 @@
         </a>
         <h3>Sobre mim</h3>
         <p>
-            Olá, me chamo Nicolas e tenhos 19 anos, atualmente sou um estudante de programação e desenvolvo minhas habilidades em diversas areas  👋
+            Olá, me chamo Nicolas e tenhos 21 anos, atualmente sou um estudante de programação e desenvolvo minhas habilidades em diversas areas  👋
             <br/>
             Sou um amante de jogos, animes e animais ❤
             <br/>
