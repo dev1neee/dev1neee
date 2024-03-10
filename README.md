@@ -27,7 +27,7 @@
 <table align='right'>
   <row>
     <td>
-      <img id="tableStats" height='172' src='https://github-readme-stats.vercel.app/api?username=dev1neee&show_icons=true&count_private=true&locale=pt-br&theme=dark'>
+      <img id="tableStats" height='172' src='https://github-readme-stats.vercel.app/api?username=nicolasfaustino&show_icons=true&count_private=true&locale=pt-br&theme=dark'>
     </td>
   </row>
 </table>
